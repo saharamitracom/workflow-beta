@@ -363,7 +363,7 @@ graph LR
 | NAS/OLT/ONU/ODP | ✅ | ✅ | ❌ | ✅ | ✅ |
 | GenieACS | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Tickets | ✅ | ✅ | ❌ | ✅ | ✅ |
-| Work Orders | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Work Orders | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Inventory | ✅ | ✅ | ❌ | ❌ | ❌ |
 | Broadcast | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Vouchers | ✅ | ✅ | ❌ | ❌ | ✅ |
