@@ -355,8 +355,8 @@ graph LR
 | Modul | Super Admin | Admin | Finance | Teknisi | NOC |
 |-------|:-----------:|:-----:|:-------:|:-------:|:---:|
 | Dashboard | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Customers | ✅ | ✅ | 👁️ | ✅ | ✅ |
-| Plans | ✅ | ✅ | 👁️ | ❌ | ❌ |
+| Customers | ✅ | ✅ | 👁️ | ❌ | ✅ |
+| Plans | ✅ | ✅ | 👁️ | ❌ | ✅ |
 | Invoices | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Transactions | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Reports | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -364,8 +364,8 @@ graph LR
 | GenieACS | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Tickets | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Work Orders | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Inventory | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Broadcast | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Inventory | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Broadcast | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Vouchers | ✅ | ✅ | ❌ | ❌ | ✅ |
 | Settings | ✅ | ✅ | ❌ | ❌ | ❌ |
 | Users & Roles | ✅ | ❌ | ❌ | ❌ | ❌ |
